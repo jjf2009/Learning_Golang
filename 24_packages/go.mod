@@ -1,0 +1,5 @@
+module newmod
+
+go 1.26.5
+
+
